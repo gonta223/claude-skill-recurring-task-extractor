@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recurring Task Extractor"
+  short_description: "自分のClaude Codeログから3回以上繰り返している作業を洗い出し、エージェントスキル候補をドラフトする。「定期作業洗い出し」「ログから繰り返し作業」「スキル化候補出して」と言われたら起動。2モード搭載 (keyword=高速3..."
+  default_prompt: "Use the Recurring Task Extractor skill for this request, follow its SKILL.md workflow, and return the concrete result."
